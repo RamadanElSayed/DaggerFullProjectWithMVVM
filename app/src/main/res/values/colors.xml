@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <!--    <color name="colorAccent">#000000</color>-->
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white_color">#ffffff</color>
+    <color name="hint_color">#707070</color>
+    <color name="new_gray_date">#a3a1a1</color>
+    <color name="gray_light_color">#a8a6a7</color>
+    <color name="blue_color">#421b9b</color>
+    <color name="orange_color">#ffd800</color>
+    <color name="orange_color_2">#80ffd800</color>
+    <color name="green_color">#22d768</color>
+    <color name="bink_color">#cbbcf6</color>
+    <color name="grey">#FFDEDADA</color>
+    <color name="grey_second_color">#656264</color>
+    <color name="new_black_color">#5a596a</color>
+    <color name="branch_services_color">#070746</color>
+    <color name="single_header_product">#29a8a6a7</color>
+    <color name="rate_comment_color">#7f7f7f</color>
+    <color name="lighter_grey">#aaa</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <array name="array_dot_active">
+        <item>@color/white_color</item>
+        <item>@color/white_color</item>
+        <item>@color/white_color</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/grey</item>
+        <item>@color/grey</item>
+        <item>@color/grey</item>
+        <item>@color/grey</item>
+    </array>
+
+
+
+
+
+
+
+
+</resources>
